@@ -1,0 +1,44 @@
+﻿REDDIT (nowe konto)
+
+W lewym górnym rogu znajdź i kliknij przycisk "SIGN UP".
+Na środku okna przeglądarki pojawi się pop-up, w który trzeba wpisać swój adres e-mail
+Następnie opcjonalnie można odhaczyć check box, w którym zgadzamy sie na to
+by reddit mógł wysyłać nam maile informujące nas o nowym konwencje na stronie,
+po czym należy kliknąć przycisk "NEXT"
+Strona poprosi nas o podanie swojej nowej nazwy użytkownika oraz hasła.
+Wymagane również będzie odhaczenia pola reCAPTCHA.
+Gdy podamy potrzebne informacje, w lewym dolnym rogu pop-up'u trzeba kliknąć przycisk "SIGN UP".
+
+IKO (zastrzeżenie karty)
+
+Po uruchomieniu aplikacji należy kliknąć przycisk "zaloguj" na dole ekranu a następnie podać pin
+Gdy zalogujemy sie na pasku na dole ekranu znajduje sie opcja "Mój bank" w która trzeba kliknąć.
+U góry ekranu pojawią sie zakładki "konto", "karty", "Lokaty" itd należy znaleźć i wybrać opcje "Karty".
+Wyświetla nam sie nasze karty, następnie trzeba znaleźć daną kartę i kliknąć w trzy kropki po lewej Stonie od nazwy karty.
+Wysunie sie mini menu z dwoma opcjami klikamy "zastrzeż kartę".
+na ekranie wyświetli sie ostrzeżenie dotyczące zastrzeżenia karty oraz
+opcja w której możemy wybrać czy chcemy odrazu zamówić nową kartę.
+Na dole ekranu należy ponownie kliknąć przycisk "zastrzeż kartę".
+
+INSTAGRAM app (polubione posty)
+
+Po uruchomieniu aplikacji na dole ekranu pojawi sie pasek, z którego należy wybrać ikonę
+przedstawiającą sylwetkę człowieka po prawej stronie. Po wyświetleniu naszego profilu w prawym górnym rogu
+pojawią sie trzy poziome paski, w które należy kliknąć. Z prawej strony wysunie sie menu,
+na samym dole należy kliknąć "ustawienia" oznaczone zębatką.
+Z wyświetlonych opcji należy wybrać "Konto" a następnie "Posty, które lubisz".
+
+STEAM (zmiana hasła)
+
+Prawym górnym rogu okna widzimy nasz awatar oraz nazwę użytkownika ze strzałką w która należy kliknąć
+Wysunie sie menu z którego wybieramy "Szczegóły konta".
+Otworzy się nowa strona z dostępnych zakładek należy znaleźć nazwaną "Bezpieczeństwo konta"
+i wybrać opcje "Zmień moje hasło". Po wybraniu opcji otrzymania kodu weryfikacyjnego poprzez SMS lub e-mail,
+Należy wpisać go w podane pole a następnie podać nowe hasło.
+
+DISCORD (nowy serwer)
+
+Z lewej strony okna widzimy pasek z Wszystkimi serwerami, których jesteśmy członkami . Na samym dole znajduje sie ikona"+" która należy kliknąć.
+Pop-up daje nam wybór utworzenia nowego serwera lub dołączenia do istniejącego, wybieramy "Stwórz serwer".
+W odpowiednie pole wpisujemy nazwę nowego serwera, wybieramy region oraz awatar następnie klikamy "stwórz"
+Po utworzeniu serwera otrzymujemy link służący do zapraszania znajomych na nowo utworzony serwer.
